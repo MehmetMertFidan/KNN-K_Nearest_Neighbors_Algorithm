@@ -33,4 +33,5 @@ K değerini 3 yapalım. Sırasıyla en yakın komşular B,A,A olur. Bu durumda (
 
 Görüldüğü gibi K değerinin değişmesi sınıflandırmayı etkilemiştir. Bu yüzden farklı K değerleriyle sınıflandırma yapıp en iyi sonucu veren değeri seçmemiz gerekir.
 
+## 
 
