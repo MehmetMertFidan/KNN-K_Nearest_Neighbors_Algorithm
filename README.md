@@ -35,13 +35,19 @@ Görüldüğü gibi K değerinin değişmesi sınıflandırmayı etkilemiştir. 
 
 ## Sınıflandırma Problemleri Örnekleri
 
--Müşterinin verilen krediyi ödeyip ödeyemeyeceği (Customer Default Risk)
+- Müşterinin verilen krediyi ödeyip ödeyemeyeceği (Customer Default Risk)
 
--Müşterinin aldığı servisi bırakıp bırakmayacağı (Customer Churn)
-Müşteri segmantasyon (Customer Segmantation)
-Kişiye özel ilaç tespiti
-E-posta spam filitrelemesi
-Görüntü tanıma (Image Recognition)
-El yazısı tanıma (Handwriting Recognition)
-Biyometrik tanımlama (Biometric Identification)
+- Müşterinin aldığı servisi bırakıp bırakmayacağı (Customer Churn)
+
+- Müşteri segmantasyon (Customer Segmantation)
+
+- Kişiye özel ilaç tespiti
+
+- E-posta spam filitrelemesi
+
+- Görüntü tanıma (Image Recognition)
+
+- El yazısı tanıma (Handwriting Recognition)
+
+- Biyometrik tanımlama (Biometric Identification)
 
