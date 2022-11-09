@@ -33,5 +33,15 @@ K değerini 3 yapalım. Sırasıyla en yakın komşular B,A,A olur. Bu durumda (
 
 Görüldüğü gibi K değerinin değişmesi sınıflandırmayı etkilemiştir. Bu yüzden farklı K değerleriyle sınıflandırma yapıp en iyi sonucu veren değeri seçmemiz gerekir.
 
-## 
+## Sınıflandırma Problemleri Örnekleri
+
+-Müşterinin verilen krediyi ödeyip ödeyemeyeceği (Customer Default Risk)
+
+-Müşterinin aldığı servisi bırakıp bırakmayacağı (Customer Churn)
+Müşteri segmantasyon (Customer Segmantation)
+Kişiye özel ilaç tespiti
+E-posta spam filitrelemesi
+Görüntü tanıma (Image Recognition)
+El yazısı tanıma (Handwriting Recognition)
+Biyometrik tanımlama (Biometric Identification)
 
