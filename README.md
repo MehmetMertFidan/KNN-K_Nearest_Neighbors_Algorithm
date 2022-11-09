@@ -2,6 +2,14 @@
 
 ![resim](https://www.veribilimiokulu.com/wp-content/uploads/2017/07/k_en_yakin_komsu_anime.png)
 Makine öğrenmesi ile çözülebilen problemlerden biri çok geniş kullanım alanı ile sınıflandırma problemleridir. Günümüzdeki bir çok problem bir şekilde sınıflandırma problemi olarak tasarlanıp çözülebilmektdir. Sınıflandırmada bildiğimiz gibi eğittiğimiz bir model kullanarak hedef niteliğini bilmediğimiz ancak elimizde özellikleri olan bir nesnenin hangi sınıfa dahil olacağını tahmin ediyoruz. Sınıflandırma algoritmalarından k en yakın komşu en yaygın olarak kullanılan algoritmadır. Mantık kabaca şöyle; k sayısı belirlenir, nesnenin hangi sınıfa dahil olacağını belirlemek için kendisine en yakın olan kaç komşu kullanılacağına dair bir sayı. Bu komşulara olan mesafe bir yöntemle hesaplanır (örn. öklid) Daha sonra bu k sayısı içinde en fazla hangi sınıfa yakınlık var ise bilinmeyen nesnenin de o sınıfa dahil olduğuna hükmedilir.
+
+K-en yakın komşuluk (KNN) algoritması, uygulaması kolay gözetimli öğrenme algoritmalarındandır. Hem sınıflandırma hem de regresyon problemlerinin çözümünde kullanılıyor olmakla birlikte, endüstride çoğunlukla sınıflandırma problemlerinin çözümünde kullanılmaktadır.
+
+KNN algoritmaları, 1967 yılında T. M. Cover ve P. E. Hart tarafından önerilmiştir. 3 tip uzaklık fonksiyonu kullanılmaktadır:
+
+“Euclidean” Uzaklık,
+“Manhattan” Uzaklık,
+“Minkowski” Uzaklığı.
 ## KNN Çalışma Mantığı
 Sınıflandırmada (classification) kullanılan bu algoritmaya göre sınıflandırma sırasında çıkarılan özelliklerden (feature extraction), sınıflandırılmak istenen yeni bireyin daha önceki bireylerden k tanesine yakınlığına bakılmasıdır.
 
@@ -51,3 +59,9 @@ Görüldüğü gibi K değerinin değişmesi sınıflandırmayı etkilemiştir. 
 
 - Biyometrik tanımlama (Biometric Identification)
 
+## Kaynakça
+
+- https://mlhtnc.github.io/knn-algorithm.html
+- https://arslanev.medium.com/makine-%C3%B6%C4%9Frenmesi-knn-k-nearest-neighbors-algoritmas%C4%B1-bdfb688d7c5f
+- https://www.veribilimiokulu.com/k-en-yakin-komsu-k-nearest-neighbor-siniflandirma-python-ornek-uygulama/
+- https://medium.com/@k.ulgen90/makine-%C3%B6%C4%9Frenimi-b%C3%B6l%C3%BCm-2-6d6d120a18e1
