@@ -65,3 +65,4 @@ Görüldüğü gibi K değerinin değişmesi sınıflandırmayı etkilemiştir. 
 - https://arslanev.medium.com/makine-%C3%B6%C4%9Frenmesi-knn-k-nearest-neighbors-algoritmas%C4%B1-bdfb688d7c5f
 - https://www.veribilimiokulu.com/k-en-yakin-komsu-k-nearest-neighbor-siniflandirma-python-ornek-uygulama/
 - https://medium.com/@k.ulgen90/makine-%C3%B6%C4%9Frenimi-b%C3%B6l%C3%BCm-2-6d6d120a18e1
+- Sunumda kullandığımız videonun linki: https://www.youtube.com/watch?v=jlQCcIPQKlA
